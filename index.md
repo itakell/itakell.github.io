@@ -10,3 +10,6 @@ Findus ist:
 * He is also a film director, producer and composer
 * He has received Academy Award nominations
 * He is best known as Dirty Harry
+
+## Featured quote
+> Super Toll
